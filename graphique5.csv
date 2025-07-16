@@ -1,0 +1,31 @@
+type;Type;category;Category;coicop;Coicop;values
+age;Âge;Y30-44;De 30 à 44 ans;CP042;Loyers imputés (propriétaires occupants);0,132
+age;Âge;Y45-59;De 45 à 59 ans;CP042;Loyers imputés (propriétaires occupants);0,149
+age;Âge;Y_GE60;+ de 60 ans;CP042;Loyers imputés (propriétaires occupants);0,190
+age;Âge;Y_LT30;- de 30 ans;CP042;Loyers imputés (propriétaires occupants);0,056
+quantile;Cinquième de niveau de vie;QUINTILE1;"1er
+(+ pauvres)";CP042;Loyers imputés (propriétaires occupants);0,069
+quantile;Cinquième de niveau de vie;QUINTILE2;2è;CP042;Loyers imputés (propriétaires occupants);0,125
+quantile;Cinquième de niveau de vie;QUINTILE3;3è;CP042;Loyers imputés (propriétaires occupants);0,154
+quantile;Cinquième de niveau de vie;QUINTILE4;4è;CP042;Loyers imputés (propriétaires occupants);0,167
+quantile;Cinquième de niveau de vie;QUINTILE5;"5è
+(+ riches)";CP042;Loyers imputés (propriétaires occupants);0,169
+deg_urb;Commune de résidence;DEG1;Villes;CP042;Loyers imputés (propriétaires occupants);0,138
+deg_urb;Commune de résidence;DEG2;"Villes - peuplées
+et banlieues";CP042;Loyers imputés (propriétaires occupants);0,148
+deg_urb;Commune de résidence;DEG3;Zones rurales;CP042;Loyers imputés (propriétaires occupants);0,168
+age;Âge;Y30-44;De 30 à 44 ans;CP041;Loyers réels (locataires);0,073
+age;Âge;Y45-59;De 45 à 59 ans;CP041;Loyers réels (locataires);0,055
+age;Âge;Y_GE60;+ de 60 ans;CP041;Loyers réels (locataires);0,044
+age;Âge;Y_LT30;- de 30 ans;CP041;Loyers réels (locataires);0,144
+quantile;Cinquième de niveau de vie;QUINTILE1;"1er
+(+ pauvres)";CP041;Loyers réels (locataires);0,175
+quantile;Cinquième de niveau de vie;QUINTILE2;2è;CP041;Loyers réels (locataires);0,112
+quantile;Cinquième de niveau de vie;QUINTILE3;3è;CP041;Loyers réels (locataires);0,071
+quantile;Cinquième de niveau de vie;QUINTILE4;4è;CP041;Loyers réels (locataires);0,041
+quantile;Cinquième de niveau de vie;QUINTILE5;"5è
+(+ riches)";CP041;Loyers réels (locataires);0,025
+deg_urb;Commune de résidence;DEG1;Villes;CP041;Loyers réels (locataires);0,085
+deg_urb;Commune de résidence;DEG2;"Villes - peuplées
+et banlieues";CP041;Loyers réels (locataires);0,062
+deg_urb;Commune de résidence;DEG3;Zones rurales;CP041;Loyers réels (locataires);0,033
