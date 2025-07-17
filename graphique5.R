@@ -12,7 +12,7 @@ for (dataset in datasets_eurostat){
   )
 }
 
-## Graphique 5 --------
+## Données du graphique 5 --------
 
 graphique5 <- hbs_str_t225 %>%
   rename(category = age) %>%
@@ -48,6 +48,8 @@ graphique5 <- hbs_str_t225 %>%
 
 write_csv2(graphique5, "graphique5.csv")
 save(graphique5, file = "graphique5.RData")
+
+## Graphique 5 ------
 
 graphique5 %>%
   ggplot + geom_col(aes(x = Category, y = values, fill = Coicop)) +
